@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ArrayUebung : MonoBehaviour
+public class NewBehaviourScript : MonoBehaviour
 {
     int[] array;
 
